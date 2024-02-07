@@ -2,7 +2,7 @@
 
 ## I'm a Economist and coffee enthusiast
 
-- 🌱 I’m currently learning about Machine Learning, Deep Learning and Data Science
+- 🌱 Learning about Machine Learning, Deep Learning and Data Science
 - 🤖 I’m looking to put in practice my Econ/Data Science knowledge and skills
 
 ### Connect with me:
