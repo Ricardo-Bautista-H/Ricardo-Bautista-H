@@ -1,9 +1,8 @@
 ### Hi there, I'm Ricardo 👋 
 
-## I'm a Economist and coffee enthusiast
+## I'm a Data Scientist, Economist, and coffee enthusiast
 
-- 🌱 Learning about Machine Learning, Deep Learning and Data Science
-- 🤖 I’m looking to put in practice my Econ/Data Science knowledge and skills
+- 🤖 I’m looking to keep learning!
 
 ### Connect with me:
 
